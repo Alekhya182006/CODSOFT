@@ -1,8 +1,4 @@
-Rule-Based Chatbot
+# CODSOFT
 
-This project is a simple rule-based chatbot using Python.
-It works using if-else conditions to respond to user input.
+CodSoft internship tasks and projects.
 
-How to Run:
-python chatbot.py# CODSOFT
-CodSoft internship tasks and projects
